@@ -2,12 +2,12 @@
     "nombreApp" : "Componentes",
     "rutas" : [
         {
-            "ruta" : "alert",
+            "ruta" : "/alert",
             "icon" : "add_alert",
             "texto": "Alertas"
         },
         {
-            "ruta" : "avatar",
+            "ruta" : "/avatar",
             "icon" : "accessibility",
             "texto": "Avatars"
         },
